@@ -1,4 +1,4 @@
-# 112-1 師大科技系y 資料庫系統
+# 112-1 師大科技系  資料庫系統
 授課教師：蔡芸琤
 
 姓名：詹喬崴
@@ -7,5 +7,5 @@
 
 ## 課程筆記區
 ## 作業連結區
-[作業一](https://www.youtube.com/watch?v=asW7ZtmcfEA)
+[HW0](https://www.youtube.com/watch?v=asW7ZtmcfEA)
 ## 專題連結區
